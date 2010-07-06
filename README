@@ -1,0 +1,11 @@
+Uniform Theme: Aristo
+By: 280North / Ported by Josh Pyles
+License: Creative Commons Share Alike
+
+You'll need to use Uniform in conjunction with this theme: http://github.com/pixelmatrix/uniform
+
+To see a demo, visit http://pixelmatrixdesign.com/uniform/ and check out the theme switcher.
+
+TODOS:
+- Add support for text inputs & textareas
+- Add support for buttons
