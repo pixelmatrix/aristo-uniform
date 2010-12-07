@@ -485,6 +485,18 @@ Not advised to edit stuff below this line
 -----------------------------------------------------
 */
 
+.selector, 
+.checker, 
+.button, 
+.radio, 
+.uploader {
+  display: -moz-inline-box;
+  display: inline-block;
+  vertical-align: middle;
+  zoom: 1;
+  *display: inline;
+}
+
 .selector select:focus, .radio input:focus, .checker input:focus, uploader input:focus {
   outline: 0;
 }
