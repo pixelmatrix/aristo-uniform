@@ -6,6 +6,5 @@ You'll need to use Uniform in conjunction with this theme: http://github.com/pix
 
 To see a demo, visit http://pixelmatrixdesign.com/uniform/ and check out the theme switcher.
 
-TODOS:
-- Add support for text inputs & textareas
-- Add support for buttons
+Contributors
+Andreas Wålm (github: walm) - button, input and textarea support
